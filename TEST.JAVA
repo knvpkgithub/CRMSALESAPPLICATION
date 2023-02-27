@@ -2,5 +2,5 @@
 
 
 VOID MAIN(){
-  
+  //system.outline
 }
