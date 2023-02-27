@@ -1,1 +1,6 @@
 // WELCOME TO DEVOPS
+
+
+VOID MAIN(){
+  
+}
